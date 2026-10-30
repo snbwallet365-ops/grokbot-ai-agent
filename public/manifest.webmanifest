@@ -1,0 +1,20 @@
+{
+  "name": "GrokBot — AI Visa Agent",
+  "short_name": "GrokBot",
+  "description": "AI visa agent with live browser workspace, document checks and approval gates.",
+  "start_url": "/chats",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#273E81",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Chats", "url": "/chats" },
+    { "name": "Applications", "url": "/applications" }
+  ]
+}

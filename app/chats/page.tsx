@@ -1,0 +1,2 @@
+import ChatApp from "@/components/ChatApp";
+export default function ChatsPage() { return <ChatApp activeId={null} />; }

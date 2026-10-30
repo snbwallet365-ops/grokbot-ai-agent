@@ -1,0 +1,7 @@
+node_modules
+.next
+grokbuild
+worker
+n8n
+supabase
+*.zip
